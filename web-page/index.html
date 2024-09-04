@@ -1,0 +1,579 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ecointerspace</title>
+    <style>
+        body {
+            background-color: black;
+            color: white;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            max-width: 1020px;
+            margin: 0 auto;
+            padding: 80px;
+        }
+
+        .header-section,
+        .content-section,
+        .story-section,
+        .complex-section,
+        .list-section {
+            display: flex;
+            width: 100%;
+            /* justify-content: space-between; */
+            justify-content: space-around;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+
+        .image-grid-section {
+            display: flex;
+            width: 100%;
+            margin-bottom: 70px;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .grid-image {
+            width: 200px;
+            height: 200px;
+            
+            /* Placeholder for the image */
+            margin-bottom: 10px;
+        }
+
+        .image-grid-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .paragraph-section {
+            display: flex;
+            width: 100%;
+            margin-bottom: 60px;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .paragraph-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .paragraph-text {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        .horizontal-section {
+            display: flex;
+            width: 100%;
+            margin-bottom: 50px;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .list-section {
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .list-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .horizontal-header {
+            font-size: 34px;
+            font-weight: bold;
+            color: rgb(63, 156, 63);
+        }
+
+        .content-section {
+            margin-bottom: 80px;
+        }
+
+        .complex-header {
+            font-size: 24px;
+            font-weight: bold;
+            color: #79B877;
+        }
+
+        .complex-paragraph {
+            margin-bottom: 10px;
+            line-height: 1.5;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .header-text {
+            font-size: 44px;
+            font-weight: bold;
+            margin-left: -10px;
+        }
+
+        .content-text {
+            font-size: 34px;
+        }
+
+        .story-section {
+            flex-direction: column;
+            align-items: center;
+            /* text-align: center; */
+        }
+
+        .horizontal-header {
+            margin-bottom: 30px;
+        }
+
+        .horizontal-text {
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+
+        .horizontal-items {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            gap: 20px;
+        }
+
+        /* .image-row {
+            display: flex;
+            justify-content: space-between;
+            width: 110%;
+            height: 40%;
+            margin-bottom: 40px;
+           
+        } */
+        
+        .image-row {
+            display: flex;
+            grid-template-columns: repeat(3, 1fr);
+            /* justify-content: space-between; */
+            width: 110%;
+            height: 40%;
+            margin-bottom: 40px;
+        }
+
+        .image-caption {
+            margin-bottom: 10px;
+        }
+
+        .grid-image-container {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 33%;
+        }
+
+        .horizontal-div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 33%;
+        }
+
+        .horizontal-image {
+            margin-bottom: 10px;
+        }
+
+        .story-title {
+            font-size: 34px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .button {
+            background-color: white;
+            color: black;
+            padding: 10px 20px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+        }
+
+        .separator {
+            width: 100%;
+            height: 1px;
+            background-color: white;
+            margin: 30px 0;
+        }
+
+        .image {
+            width: 450px;
+            height: 300px;
+            width: 70%;
+            height: 30%;
+            margin-left: 60px;
+        }
+
+        .story-text {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        .story-text1 {
+            margin-bottom: 40px;
+            line-height: 1.5;
+        }
+
+        .complex-image {
+            /* width: 349px;
+            height: 199px; */
+            margin-right: 20px;
+        }
+
+        .complex-content {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .complex-div {
+            margin-bottom: 20px;
+        }
+
+        .list-section ul {
+            list-style-type: disc;
+            padding-left: 20px;
+            text-align: left;
+        }
+
+        .list-section ul li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+
+        .column-section {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 100%;
+            margin-bottom: 70px;
+        }
+
+        .column-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 40px;
+        }
+
+        .column-row {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            gap: 20px;
+        }
+
+        .column-div {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+            width: 48%;
+        }
+
+        .grey-box {
+            background-color: white;
+            padding: 15px;
+            text-align: left;
+            border-radius: 5px;
+            width: 80%;
+            color: black;
+        }
+
+        .grey-box ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        .grey-box ul li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+            color: black;
+        }
+
+        .contact-section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            margin-bottom: 20px;
+            margin-top: 30;
+        }
+
+        .contact-container {
+            background-color: white;
+            color: black;
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 900px;
+            width: 100%;
+            text-align: left;
+        }
+
+        .horizontal-items {
+        border: 1px dotted #d0cfcf; /* Adjust the color and width of the border as needed */
+        padding: 10px; /* Optional: Adds some space inside the border */
+        padding-top: 40px;
+        margin: 10px; /* Optional: Adds some space outside the border */
+        border-radius: 5px; /* Optional: Rounds the corners of the border */
+        margin-top: 20px;
+    }
+
+        .contact-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .contact-form label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .contact-form input[type="text"],
+        .contact-form input[type="email"],
+        .contact-form textarea {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        .contact-form button {
+            background-color: black;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+
+        .contact-form button:hover {
+            background-color: #444;
+        }
+
+        .paragraph-text {
+            text-align: justify;
+        }
+
+        .column-subheader {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header-section">
+            <div class="header-text">Closing the loop on <br> furniture waste using <br> AI and blockchain</div>
+            <a href="#" class="button">Partner with us</a>
+        </div>
+        <div class="separator"></div>
+        <div class="content-section">
+            <div class="content-text">Imagine a system <br> where no furniture <br> went to waste...</div>
+            <img class="image" src="images/loop image.png"></img>
+        </div>
+        <div class="story-section">
+            <div class="story-title">Our Story</div>
+            <div class="story-text">
+                In a world where the furniture industry is essential for creating comfort in our spaces, the industry's
+                impact on the environment is often overlooked. In the Netherlands alone, millions of kilograms of
+                furniture are discarded annually, with only 10% recycled. The rest ends up in landfills, contributing to
+                a growing environmental burden.
+            </div>
+            <div class="story-text">
+                Eco Interspace was founded as a response to this crisis. Founded by Prize Dennise, an interior and
+                furniture designer dedicated to environmental stewardship together with Luke Ndatigh, a software
+                engineer committed to innovation. Our journey began as we witnessed a large amount of discarded
+                furniture in the streets of Amsterdam and identified the severe environmental toll this furniture waste
+                takes on landfills in the Netherlands.
+                With the new EU laws (EPR, Polluter-pays), EU countries are required to have an effective quality
+                control and traceability system for municipal waste landfills. The responsibility now lies heavily on
+                manufacturers and designers, who must rethink product lifecycles, material choices and end-of-life
+                disposal.
+            </div>
+            <div class="story-text1">
+                Eco Interspace was created to ensure no more furniture goes to waste to reduce the amount of furniture
+                waste ending up in landfills. By optimising AI and blockchain, we provide digital solutions that ensure
+                transparency in sustainability efforts, end-to-end waste solutions and responsible supply chains. Our
+                goal is to help the Dutch furniture industry meet EU regulations and embrace a more responsible approach
+                to waste disposal.
+            </div>
+        </div>
+        <div class="complex-section">
+            <img class="complex-image" src="images/Group 2287.png"></img>
+            <!-- Replace this div with an <img> tag for an actual image -->
+            <div class="complex-content">
+                <div class="complex-div">
+                    <div class="complex-header">Vision</div>
+                    <div class="complex-paragraph">
+                        A world with zero furniture waste
+                    </div>
+                </div>
+                <div class="complex-div">
+                    <div class="complex-header">Mission</div>
+                    <div class="complex-paragraph">
+                        Lead the furniture industry towards full articularity through transparent and responsible supply
+                        chains.
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="horizontal-section">
+            <div class="horizontal-header">Solutions</div>
+            <div class="horizontal-items">
+                <div class="horizontal-div">
+                    <img class="horizontal-image" src="images/location-pin.png" width="40px" height="60px"></img>
+                    <!-- Replace this div with an <img> tag for an actual image -->
+                    <div class="horizontal-text">
+                        Facilitates furniture <br> lifecycle analysis <br> through <strong style="font-weight: 600;color: rgb(96, 223, 96);">a one-stop <br> data portal</strong>
+                    </div>
+                </div>
+                <div class="horizontal-div">
+                    <img class="horizontal-image" src="images/search-glass.png" width="60px" height="60px"></img>
+                    <!-- Replace this div with an <img> tag for an actual image -->
+                    <div class="horizontal-text">Simplifies supply chain <br> transparency <strong style="font-weight: 600;color: rgb(96, 223, 96);">using AI <br> and blockchain</strong>
+                    </div>
+                </div>
+                <div class="horizontal-div">
+                    <img class="horizontal-image" src="images/process-plat.png" width="60px" height="60px"></img>
+                    <!-- Replace this div with an <img> tag for an actual image -->
+                    <div class="horizontal-text">Extends furniture <br> lifespan with<strong style="font-weight: 600;color: rgb(96, 223, 96);"> an end-to-end <br> repurposing
+                        platform</strong> </div>
+                </div>
+            </div>
+        </div>
+        <div class="list-section">
+            <div class="list-header">Competitive advantage</div>
+            <ul>
+                <li>A closed-loop circular system covering the sourcing, disposal and repurposing process</li>
+                <li>Integrated circular material alternatives for furniture production</li>
+                <li>High switching costs from large sustainability data collection saving business 70% of value time.
+                </li>
+                <li>Furniture waste is 95% cheaper than sourced raw materials</li>
+            </ul>
+        </div>
+        <div class="paragraph-section">
+            <div class="paragraph-header">Our journey is two-fold</div>
+            <div class="paragraph-text">
+                The first phase will focus on the <strong style="font-weight: 600;color: rgb(96, 223, 96);">Data portal</strong>: Engaging supply chain stakeholders in the furniture industry to analyse carbon footprint, life cycle assessment, material composition, waste generation, product lifespan and environmental certifications. 
+                This would in turn set the stage for broader sustainability efforts across the Dutch furniture industry.
+            </div>
+            <div class="paragraph-text">
+                In the second phase we will focus on the <strong style="font-weight: 600;color: rgb(96, 223, 96);">End-to-end furniture repurposing platform</strong>: By leveraging the foundation laid by the open data portal we will then develop this
+                platform mainly for furniture waste collection, repurposing and resale.
+            </div>
+        </div>
+        <div class="image-grid-section">
+            <div class="image-grid-header">Our team</div>
+            <div class="image-row">
+                <div class="grid-image-container">
+                    <img class="grid-image" src="images/prize.PNG"></img>
+                    <div class="image-caption">Prize Dennise</div> <!-- Add caption here -->
+                    <div class="image-caption">Founder, entreprenuer, interior & <br> furniture designer</div>
+                </div>
+                <div class="grid-image-container">
+                    <img class="grid-image" src="images/luke.PNG"></img>
+                    <div class="image-caption">Luke Ndatigh</div> <!-- Add caption here -->
+                    <div class="image-caption">Co-founder, software engineer & <br>  financial advisor</div>
+                </div>
+                <div class="grid-image-container">
+                    <img class="grid-image" src="images/garry.png"></img>
+                    <div class="image-caption">Garry Kabongo</div> <!-- Add caption here -->
+                    <div class="image-caption">Software developer</div>
+                </div>
+            </div>
+            <div class="image-row">
+                <div class="grid-image-container">
+                    <img class="grid-image" src="images/bram.PNG"></img>
+                    <div class="image-caption">Bram Naus</div> <!-- Add caption here -->
+                    <div class="image-caption">Business advisor & digital designer</div>
+                </div>
+                <div class="grid-image-container">
+                    <img class="grid-image" src="images/don2.png"></img>
+                    <div class="image-caption">Donald Mubangizi</div> <!-- Add caption here -->
+                    <div class="image-caption">3D designer</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="column-section">
+            <div class="column-header">Partner with us</div>
+            <div class="column-row">
+                <div class="column-div">
+                    <div class="column-subheader">INVEST</div>
+                    <div class="grey-box">
+                        <ul>
+                            <li>Funding for product development cost for the first 1.5 years</li>
+                            <li>Technical expertise: AI services and circular economy pratices</li>
+                            <li>Strategic expertise: Marketing and access to furniture waste sources</li>
+                            <li>Regulatory expertise: Compliance support for waste management and circular practices
+                            </li>
+                        </ul>
+                        (Currently in the early seed stage)
+                    </div>
+                </div>
+                <div class="column-div">
+                    <div class="column-subheader">PARTNER</div>
+                    <div class="grey-box">
+                        <ul>
+                            <li>Furniture manufacturers and retailers</li>
+                            <li>Circular material suppliers</li>
+                            <li>Technical providers (AI, blockchain, IoT, sensor technologies)</li>
+                            <li>Environmental/regulatory organisations</li>
+                            <li>Recycling plants</li>
+                            <li>Waste management companies</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="contact-section">
+            <div class="contact-container">
+                <div class="contact-header">Contact Us</div>
+                <form class="contact-form">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="5" required></textarea>
+
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
