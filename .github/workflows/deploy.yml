@@ -1,0 +1,63 @@
+name: Build and Deploy to gh-pages
+
+on:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: |
+          npm run build
+          cat dist/blog/first-post/index.html
+
+      # - name: Copy files to temp directory
+      #   run: |
+      #     cp -r /home/runner/work/furnzero-app/furnzero-app/dist/* /home/runner/work/furnzero-app/furnzero-app/temp/
+
+      # - name: Checkout gh-pages branch
+      #   uses: actions/checkout@v3
+      #   with:
+      #     ref: gh-pages
+      #     persist-credentials: true
+
+      # - name: Copy files to gh-pages branch
+      #   run: |
+      #     cp -r /home/runner/work/furnzero-app/furnzero-app/temp/* .
+        
+      - name: Commit and push changes
+        run: |
+          mkdir /home/runner/work/furnzero-app/furnzero-app/temp/
+
+          git fetch origin
+          git checkout -b gh-pages origin/gh-pages
+          ls
+          cp -r /home/runner/work/furnzero-app/furnzero-app/dist/* .
+          rm -rf /home/runner/work/furnzero-app/furnzero-app/dist/
+          rm -rf node_modules/
+
+          cat blog/first-post/index.html
+
+          git config --local user.name "dillionmegida"
+          git config --local user.email "dillionmegida@gmail.com"
+          git add .
+          git commit -m "Deploy to gh-pages"
+          git push origin gh-pages
