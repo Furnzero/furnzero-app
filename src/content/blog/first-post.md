@@ -2,7 +2,7 @@
 title: 'How to dispose mattress and furniture waste in the Netherlands'
 description: "From street dumps to smart disposal: what your options really are in the Netherlands"
 pubDate: 'Mar 31 2025'
-heroImage: '/assets/img/services[Copy of Before you trash your mattress  Read this! (3)](https://github.com/user-attachments/assets/446336de-eeb1-41c3-a787-c5e60406eee7).jpg'
+heroImage: '/assets/img/services.![Furniture and mattress waste](https://github.com/user-attachments/assets/2fa3f0f8-97a0-4813-8a94-2b12a456c9bd)/jpg'
 ---
 
 Whether you’re moving, renovating, or upgrading your space, one challenge always finds its way to the surface: what do you do with the big stuff? Mattresses, sofas, wardrobes — the pieces that are too heavy to carry, too large to ignore, and too bulky for a standard bin. 
