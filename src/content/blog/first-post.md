@@ -1,6 +1,6 @@
 ---
-title: 'How to dispose mattress and furniture waste in the Netherlands/Bold'
-description: "From street dumps to smart disposal: what your options really are in the Netherlands/Italic"
+title: 'How to dispose mattress and furniture waste in the Netherlands'
+description: "From street dumps to smart disposal: what your options really are in the Netherlands"
 pubDate: 'Mar 31 2025'
 heroImage: '/assets/img/services[Copy of Before you trash your mattress  Read this! (3)](https://github.com/user-attachments/assets/446336de-eeb1-41c3-a787-c5e60406eee7).jpg'
 ---
