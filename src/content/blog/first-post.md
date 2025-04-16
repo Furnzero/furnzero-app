@@ -8,7 +8,7 @@ heroImage: '/assets/img/services.![Furniture and mattress waste](https://github.
 Whether you’re moving, renovating, or upgrading your space, one challenge always finds its way to the surface: what do you do with the big stuff? Mattresses, sofas, wardrobes — the pieces that are too heavy to carry, too large to ignore, and too bulky for a standard bin. 
 In the Netherlands, there are several ways to dispose of mattresses and furniture, but the right option often depends on how quickly you need it gone, what condition it’s in, your municipality, access to transport, and whether you’re an individual or an organization. It also depends on whether you're aiming for the most convenient route, or one that supports circular recovery and reuse. While options vary by location, here are the five most common ways.
 
-1. Leave it on the street on collection days (not applicable to businesses)
+1. Leave it on the street on collection days (only for hpusehold waste)
 In many Dutch municipalities, residents can place bulky waste, such as mattresses and furniture, at specific locations for collection. Depending on your area, this might involve leaving items directly in front of your residence or at designated spots in your neighborhood.​
 For instance, in Amsterdam, residents are instructed to place bulky waste on special paving stones marked 'grofvuil'. In areas without these markers, items should be left at the edge of the pavement where waste collection vehicles can easily access them. ​
 The designated days may occur once a week or twice a month, depending on your city, with items placed on the street no earlier than 21:00 the night before. Collection usually takes place anytime after 07:00 the following morning.
