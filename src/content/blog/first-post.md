@@ -1,56 +1,97 @@
----
-title: 'How to dispose mattress and furniture waste in the Netherlands'
-description: "From street dumps to smart disposal: what your options really are in the Netherlands"
-pubDate: 'Mar 31 2025'
-heroImage: '/assets/img/services.![Furniture and mattress waste](https://github.com/user-attachments/assets/2fa3f0f8-97a0-4813-8a94-2b12a456c9bd)/jpg'
----
+# **How to Dispose of Mattress and Furniture Waste in the Netherlands**
+
+*From street dumps to smart disposal: what your options really are in the Netherlands*  
+**Published:** Mar 31, 2025  
+
+![Furniture and mattress waste](https://github.com/user-attachments/assets/2fa3f0f8-97a0-4813-8a94-2b12a456c9bd)
 
 Whether you’re moving, renovating, or upgrading your space, one challenge always finds its way to the surface: what do you do with the big stuff? Mattresses, sofas, wardrobes — the pieces that are too heavy to carry, too large to ignore, and too bulky for a standard bin. 
+
 In the Netherlands, there are several ways to dispose of mattresses and furniture, but the right option often depends on how quickly you need it gone, what condition it’s in, your municipality, access to transport, and whether you’re an individual or an organization. It also depends on whether you're aiming for the most convenient route, or one that supports circular recovery and reuse. While options vary by location, here are the five most common ways.
 
-1. Leave it on the street on collection days (only for household waste)
-In many Dutch municipalities, residents can place bulky waste, such as mattresses and furniture, at specific locations for collection. Depending on your area, this might involve leaving items directly in front of your residence or at designated spots in your neighborhood.​
-For instance, in Amsterdam, residents are instructed to place bulky waste on special paving stones marked 'grofvuil'. In areas without these markers, items should be left at the edge of the pavement where waste collection vehicles can easily access them. ​
-The designated days may occur once a week or twice a month, depending on your city, with items placed on the street no earlier than 21:00 the night before. Collection usually takes place anytime after 07:00 the following morning.
-While this option seems convenient, it comes with a trade-off because if exposed to rain or dirt, mattresses and furniture can no longer be recycled and are usually incinerated, even if they were originally eligible for material recovery. 
-You can find your local bulky waste policy and schedule an appointment at Afval.nl by entering your postcode.
-To avoid fines, ensure you are placing your furniture or mattress in the correct location at the appropriate time.
+---
 
-For businesses such as hotels, housing providers, and care facilities often face a more complex process. They are typically responsible for arranging the disposal of bulky items themselves, which involves coordinating pickups through municipal services or private waste contractors. This process also includes ensuring compliance with local regulations.
+## **1. Leave it on the street on collection days (only for household waste)**  
+*Municipal rules apply, and items must be placed correctly.*
 
-2. Schedule a municipal bulky waste pickup (Grofvuil)
-Most cities also allow residents to request doorstep collection of furniture and mattresses. This requires an appointment which can take several days to schedule so planning ahead is essential.
-Pickups can be scheduled online or by phone, depending on the region.
-In some cities, like The Hague or Rotterdam, pickups are free of charge; in others, a fee may apply.
-You can find your local bulky waste policy and schedule an appointment at Afval.nl by entering your postcode.
-Important: While convenient, items collected this way are often mixed with other bulky waste, and if mattresses are wet or dirty, they typically can’t be recycled.
+In many Dutch municipalities, residents can place bulky waste, such as mattresses and furniture, at specific locations for collection. 
 
-3. Bring it to a recycling point (Afvalbrengstation)
-Most Dutch municipalities provide dedicated recycling points (afvalbrengstations) where residents can drop off furniture and mattress for free. These facilities are designed to separate and recover reusable materials like foam, steel, and textiles.
-You are typically responsible for transporting the items yourself.
-Locations may differ, some cities have multiple stations, others fewer.
-Mattresses must be clean and dry to qualify for recycling. Amsterdam, for instance, outlines this option under its recyclepunt system.
-This option is best for those who have access to a car, van, or trailer, and want to ensure the mattress is handled through official recycling channels.
+For instance, in Amsterdam, residents are instructed to place bulky waste on special paving stones marked *grofvuil*. In areas without these markers, items should be left at the edge of the pavement where waste collection vehicles can access them. 
 
-4. Use a retailer’s take-back service
-For mattresses, when buying a new one, some Dutch retailers offer a take-back service for your old one.
-It’s typically one-for-one and this is either included in the delivery fee or offered as a small add-on.
-Some retailers partner with recycling firms to ensure the old mattress is handled sustainably. This is most common with popular chains and bed stores like Beter Bed, IKEA, or Auping frequently offer this service.
-For bulkier pieces like sofas, closets, take-back is less common unless you're hiring delivery and removal together — often via a third-party partner, not the retailer itself. 
+The designated days may occur once a week or twice a month, with items placed on the street no earlier than 21:00 the night before. Collection usually takes place anytime after 07:00 the following morning.
 
-5. Hire a private collection service
-Private removal companies also offer mattress pickup services, especially in areas where municipal options are limited or delayed.
-These services can be booked online, often with same-day or next-day availability.
-They’re usually paid out-of-pocket, with costs ranging from €50-€70 per item.
-Some offer recycling as part of the service; others simply transport to disposal facilities.
-While convenient, it’s important to ask where the furniture or mattress ends up since recycling isn’t guaranteed unless explicitly stated.
+While this option seems convenient, it comes with a trade-off: if exposed to rain or dirt, mattresses and furniture can no longer be recycled and are usually incinerated.
 
-In contrast to household waste, there is often less clarity and fewer standardised procedures for businesses, making the disposal process more fragmented and challenging. New regulations like the Extended Producer Responsibility (UPV) for mattresses, are a step toward accountability. However they still leave gaps as they don’t fully cover or enforce B2B flows and other furniture types.
+You can find your local bulky waste policy and schedule an appointment at [Afval.nl](https://afval.nl) by entering your postcode.
 
-That’s where we come in, not just to fill the gaps, but to help close the accountability loop.
+For businesses such as hotels, housing providers, and care facilities, the process is more complex. They are typically responsible for arranging their own disposal, often through municipal or private services.
 
-At FurnZero, we’re asking: what if all of that could be skipped?
-We're not just building a service, we're building the infrastructure that allows circularity to function where it usually breaks: at its end-of-life. Today, the weight of disposing of bulky items like mattresses and furniture rests entirely on you, often involving time-consuming coordination, high costs, and little clarity on what happens next. 
-Our mission centers on businesses — hotels, housing groups, offices, organisations — that regularly deal with large volumes of furniture and mattress turnover. We’re building a system that makes furniture disposal and recovery easier, to keep materials in use for longer, and help businesses manage it in a way that’s convenient, traceable and built for circular recovery. 
+---
 
-If you're part of a business, hotel group, housing provider, material innovator or recovery partner navigating the challenges of furniture and mattress waste, let’s collaborate! Reach out to us at furnzero@gmail.com Curious about our journey? sign up [here] for more updates! Together we can close the loop on furniture waste! 
+## **2. Schedule a municipal bulky waste pickup (Grofvuil)**  
+*Doorstep collection by appointment, free in some cities.*
+
+Most cities allow residents to request pickup of bulky items at their door. This usually requires an appointment, which can take several days to schedule.
+
+Pickups can be arranged online or by phone. Cities like The Hague or Rotterdam offer this service for free, while others may charge a fee.
+
+Note: Items collected this way are often mixed with other waste. If a mattress is wet or dirty, it may no longer be recyclable.
+
+---
+
+## **3. Bring it to a recycling point (Afvalbrengstation)**  
+*Great for clean, dry items if you have transport.*
+
+Most municipalities provide dedicated recycling stations (afvalbrengstations) where furniture and mattresses can be dropped off for free.
+
+You’re responsible for the transport. Some cities have multiple stations, others fewer.
+
+Mattresses must be clean and dry. Amsterdam outlines this option under its *recyclepunt* system.
+
+---
+
+## **4. Use a retailer’s take-back service**  
+*Offered when buying a new item — mostly for mattresses.*
+
+When purchasing a new mattress, many retailers offer a take-back service for your old one. This is typically one-for-one and may be included in the delivery fee or available as an add-on.
+
+Popular Dutch retailers like IKEA, Auping, and Beter Bed frequently provide this service, sometimes in partnership with recycling companies.
+
+For larger furniture items like sofas or wardrobes, take-back is less common unless bundled with paid delivery and removal.
+
+---
+
+## **5. Hire a private collection service**  
+*Fast, flexible, and convenient — but often costly.*
+
+Private companies also offer mattress and furniture pickup services. These are useful in areas where municipal services are delayed or limited.
+
+Bookings can be made online, often with same-day or next-day availability. Prices usually range from €50–€70 per item.
+
+Some companies guarantee recycling — but not all. It’s worth confirming where the waste goes.
+
+---
+
+In contrast to household waste, there are fewer standardized procedures for businesses, making the process more fragmented. New regulations like the Extended Producer Responsibility (UPV) for mattresses are steps in the right direction — but gaps remain, especially for B2B flows and non-mattress furniture.
+
+---
+
+## **That’s where we come in.**
+
+At FurnZero, we’re asking: *what if all of that could be skipped?*
+
+We're not just building a service. We’re building the infrastructure that allows circularity to function where it usually breaks — at its end-of-life.
+
+Today, the burden of disposing of mattresses and furniture rests entirely on the user. It often involves time-consuming coordination, high costs, and little clarity on what happens next.
+
+Our mission is to support businesses — **hotels, housing groups, offices, and organisations** — who regularly deal with high volumes of turnover. We're building a system that makes **disposal and recovery easier**, **keeps materials in use longer**, and helps businesses manage furniture waste **conveniently, transparently, and sustainably.**
+
+---
+
+### **Let’s collaborate.**  
+If you're part of a **hotel group, housing provider, or material recovery partner** facing challenges around mattress or furniture waste — reach out to us at **furnzero@gmail.com**.
+
+**Curious about our journey?** Sign up [here] for updates.
+
+**Together, we can close the loop on furniture waste.**
+
