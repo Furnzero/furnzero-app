@@ -27,7 +27,6 @@ jobs:
       - name: Build
         run: |
           npm run build
-          cat dist/blog/first-post/index.html
 
       # - name: Copy files to temp directory
       #   run: |
@@ -42,7 +41,7 @@ jobs:
       # - name: Copy files to gh-pages branch
       #   run: |
       #     cp -r /home/runner/work/furnzero-app/furnzero-app/temp/* .
-        
+
       - name: Commit and push changes
         run: |
           mkdir /home/runner/work/furnzero-app/furnzero-app/temp/
@@ -53,8 +52,6 @@ jobs:
           cp -r /home/runner/work/furnzero-app/furnzero-app/dist/* .
           rm -rf /home/runner/work/furnzero-app/furnzero-app/dist/
           rm -rf node_modules/
-
-          cat blog/first-post/index.html
 
           git config --local user.name "dillionmegida"
           git config --local user.email "dillionmegida@gmail.com"
