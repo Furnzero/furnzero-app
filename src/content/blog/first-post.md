@@ -1,22 +1,30 @@
+---
+title: "How to dispose mattress and furniture waste in the Netherlands"
+description: "From street dumps to smart disposal: what your options really are in the Netherlands"
+pubDate: "Mar 31 2025"
+heroImage: "/assets/img/services.![Furniture and mattress waste](https://github.com/user-attachments/assets/2fa3f0f8-97a0-4813-8a94-2b12a456c9bd)/jpg"
+---
+
 # **How to Dispose of Mattress and Furniture Waste in the Netherlands**
 
-*From street dumps to smart disposal: what your options really are in the Netherlands*  
-**Published:** Mar 31, 2025  
+_From street dumps to smart disposal: what your options really are in the Netherlands_
+**Published:** Mar 31, 2025
 
-![Furniture and mattress waste](https://github.com/user-attachments/assets/2fa3f0f8-97a0-4813-8a94-2b12a456c9bd)
+<img src="https://github.com/user-attachments/assets/2fa3f0f8-97a0-4813-8a94-2b12a456c9bd" alt="Furniture and mattress waste" class="content-img">
 
-Whether you’re moving, renovating, or upgrading your space, one challenge always finds its way to the surface: what do you do with the big stuff? Mattresses, sofas, wardrobes — the pieces that are too heavy to carry, too large to ignore, and too bulky for a standard bin. 
+Whether you’re moving, renovating, or upgrading your space, one challenge always finds its way to the surface: what do you do with the big stuff? Mattresses, sofas, wardrobes — the pieces that are too heavy to carry, too large to ignore, and too bulky for a standard bin.
 
 In the Netherlands, there are several ways to dispose of mattresses and furniture, but the right option often depends on how quickly you need it gone, what condition it’s in, your municipality, access to transport, and whether you’re an individual or an organization. It also depends on whether you're aiming for the most convenient route, or one that supports circular recovery and reuse. While options vary by location, here are the five most common ways.
 
 ---
 
-## **1. Leave it on the street on collection days (only for household waste)**  
-*Municipal rules apply, and items must be placed correctly.*
+## **1. Leave it on the street on collection days (only for household waste)**
 
-In many Dutch municipalities, residents can place bulky waste, such as mattresses and furniture, at specific locations for collection. 
+_Municipal rules apply, and items must be placed correctly._
 
-For instance, in Amsterdam, residents are instructed to place bulky waste on special paving stones marked *grofvuil*. In areas without these markers, items should be left at the edge of the pavement where waste collection vehicles can access them. 
+In many Dutch municipalities, residents can place bulky waste, such as mattresses and furniture, at specific locations for collection.
+
+For instance, in Amsterdam, residents are instructed to place bulky waste on special paving stones marked _grofvuil_. In areas without these markers, items should be left at the edge of the pavement where waste collection vehicles can access them.
 
 The designated days may occur once a week or twice a month, with items placed on the street no earlier than 21:00 the night before. Collection usually takes place anytime after 07:00 the following morning.
 
@@ -28,8 +36,9 @@ For businesses such as hotels, housing providers, and care facilities, the proce
 
 ---
 
-## **2. Schedule a municipal bulky waste pickup (Grofvuil)**  
-*Doorstep collection by appointment, free in some cities.*
+## **2. Schedule a municipal bulky waste pickup (Grofvuil)**
+
+_Doorstep collection by appointment, free in some cities._
 
 Most cities allow residents to request pickup of bulky items at their door. This usually requires an appointment, which can take several days to schedule.
 
@@ -39,19 +48,21 @@ Note: Items collected this way are often mixed with other waste. If a mattress i
 
 ---
 
-## **3. Bring it to a recycling point (Afvalbrengstation)**  
-*Great for clean, dry items if you have transport.*
+## **3. Bring it to a recycling point (Afvalbrengstation)**
+
+_Great for clean, dry items if you have transport._
 
 Most municipalities provide dedicated recycling stations (afvalbrengstations) where furniture and mattresses can be dropped off for free.
 
 You’re responsible for the transport. Some cities have multiple stations, others fewer.
 
-Mattresses must be clean and dry. Amsterdam outlines this option under its *recyclepunt* system.
+Mattresses must be clean and dry. Amsterdam outlines this option under its _recyclepunt_ system.
 
 ---
 
-## **4. Use a retailer’s take-back service**  
-*Offered when buying a new item — mostly for mattresses.*
+## **4. Use a retailer’s take-back service**
+
+_Offered when buying a new item — mostly for mattresses._
 
 When purchasing a new mattress, many retailers offer a take-back service for your old one. This is typically one-for-one and may be included in the delivery fee or available as an add-on.
 
@@ -61,8 +72,9 @@ For larger furniture items like sofas or wardrobes, take-back is less common unl
 
 ---
 
-## **5. Hire a private collection service**  
-*Fast, flexible, and convenient — but often costly.*
+## **5. Hire a private collection service**
+
+_Fast, flexible, and convenient — but often costly._
 
 Private companies also offer mattress and furniture pickup services. These are useful in areas where municipal services are delayed or limited.
 
@@ -78,7 +90,7 @@ In contrast to household waste, there are fewer standardized procedures for busi
 
 ## **That’s where we come in.**
 
-At FurnZero, we’re asking: *what if all of that could be skipped?*
+At FurnZero, we’re asking: _what if all of that could be skipped?_
 
 We're not just building a service. We’re building the infrastructure that allows circularity to function where it usually breaks — at its end-of-life.
 
@@ -88,10 +100,10 @@ Our mission is to support businesses — **hotels, housing groups, offices, and 
 
 ---
 
-### **Let’s collaborate.**  
+### **Let’s collaborate.**
+
 If you're part of a **hotel group, housing provider, or material recovery partner** facing challenges around mattress or furniture waste — reach out to us at **furnzero@gmail.com**.
 
-**Curious about our journey?** Sign up [here] for updates.
+**Curious about our journey?** Sign up [here](https://funzero.com) for updates.
 
 **Together, we can close the loop on furniture waste.**
-

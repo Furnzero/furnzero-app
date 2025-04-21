@@ -9,9 +9,9 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 ---
 
 <Layout>
-	<div class="container">
-		<article>
-			<div class="hero-image">
+  <div class="container">
+    <article>
+      <!-- <div class="hero-image">
 				{heroImage && <img src={heroImage} alt="" />}
 			</div>
 			<div class="prose">
@@ -28,55 +28,60 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 					</div>
 					<h1>{title}</h1>
 					<hr />
-				</div>
-				<div class="content">
-					<slot />
-				</div>
-			</div>
-		</article>
-	</div>
+				</div> -->
+      <div class="content">
+        <slot />
+      </div>
+    </article>
+  </div>
 </Layout>
 
 <style is:global>
-	main {
-		margin: 0 auto;
-	}
+  main {
+    margin: 0 auto;
+  }
 
-	.hero-image {
-		aspect-ratio: 16 / 9;
-		width: 100%;
-	}
-	.hero-image img {
-		display: block;
-		margin: 0 auto;
-		width: 100%;
-		border-radius: 12px;
-		box-shadow: var(--box-shadow);
-	}
-	.prose {
-		margin: auto;
-		padding: 1em;
-		color: rgb(var(--gray-dark));
-	}
-	.title {
-		margin-bottom: 1em;
-		padding: 1em 0;
-		text-align: center;
-		line-height: 1;
-	}
-	.title h1 {
-		margin: 0 0 0.5em 0;
-	}
-	.date {
-		margin-bottom: 0.5em;
-		color: rgb(var(--gray));
-	}
-	.last-updated-on {
-		font-style: italic;
-	}
-
-	.content p {
+  .hero-image {
+    aspect-ratio: 16 / 9;
     width: 100%;
-		font-size: 1.3rem;
-	}
+  }
+  .hero-image img {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: var(--box-shadow);
+  }
+  .prose {
+    margin: auto;
+    padding: 1em;
+    color: rgb(var(--gray-dark));
+  }
+  .title {
+    margin-bottom: 1em;
+    padding: 1em 0;
+    text-align: center;
+    line-height: 1;
+  }
+  .title h1 {
+    margin: 0 0 0.5em 0;
+  }
+  .date {
+    margin-bottom: 0.5em;
+    color: rgb(var(--gray));
+  }
+  .last-updated-on {
+    font-style: italic;
+  }
+
+  .content p {
+    width: 100%;
+    font-size: 1.3rem;
+  }
+
+  .content-img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+  }
 </style>
