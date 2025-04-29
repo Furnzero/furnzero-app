@@ -11,7 +11,7 @@ In the Netherlands, there are several ways to dispose of mattresses and furnitur
 
 ---
 
-## **1. Leave it on the street on collection days (only for household waste)**
+### **1. Leave it on the street on collection days (only for household waste)**
 
 _Municipal rules apply, and items must be placed correctly._
 
@@ -29,7 +29,7 @@ For businesses such as hotels, housing providers, and care facilities, the proce
 
 ---
 
-## **2. Schedule a municipal bulky waste pickup (Grofvuil)**
+### **2. Schedule a municipal bulky waste pickup (Grofvuil)**
 
 _Doorstep collection by appointment, free in some cities._
 
@@ -41,7 +41,7 @@ Note: Items collected this way are often mixed with other waste. If a mattress i
 
 ---
 
-## **3. Bring it to a recycling point (Afvalbrengstation)**
+### **3. Bring it to a recycling point (Afvalbrengstation)**
 
 _Great for clean, dry items if you have transport._
 
@@ -53,7 +53,7 @@ Mattresses must be clean and dry. Amsterdam outlines this option under its _recy
 
 ---
 
-## **4. Use a retailer’s take-back service**
+### **4. Use a retailer’s take-back service**
 
 _Offered when buying a new item — mostly for mattresses._
 
@@ -65,7 +65,7 @@ For larger furniture items like sofas or wardrobes, take-back is less common unl
 
 ---
 
-## **5. Hire a private collection service**
+### **5. Hire a private collection service**
 
 _Fast, flexible, and convenient — but often costly._
 
@@ -81,7 +81,7 @@ In contrast to household waste, there are fewer standardized procedures for busi
 
 ---
 
-## **That’s where we come in.**
+### **That’s where we come in.**
 
 At FurnZero, we’re asking: _what if all of that could be skipped?_
 
